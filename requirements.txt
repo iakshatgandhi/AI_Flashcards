@@ -1,0 +1,16 @@
+# Core dependencies
+streamlit>=1.22.0
+openai>=0.27.0
+python-dotenv>=1.0.0
+pandas>=1.5.0
+numpy>=1.24.0
+
+# File processing
+PyPDF2>=3.0.0
+
+# NLP dependencies
+nltk>=3.8.1
+scikit-learn>=1.2.0
+
+# Optional for advanced Anki export (uncomment if needed)
+# genanki>=0.13.0
